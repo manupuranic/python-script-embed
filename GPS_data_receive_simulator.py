@@ -46,5 +46,3 @@ ser.close()
 q = input()
 if q:
     pass
-
-sanjay@vrllogistics.com
